@@ -1,0 +1,163 @@
+https://www.whatsapp.com/legal/payments/india/psp/sbi
+2026-11-20
+SBI Bank's Payment Service Terms
+SBI Bank's Payment Service Terms
+Table of Contents
+1. Definitions
+2. Applicability of Terms and Conditions
+3. General Business Rules Governing SBI UPI
+4. Usage of Facility
+5. Others
+6. Accuracy of Information
+7. Responsibilities and obligations of the “USER”
+8. Sharing of Information
+9. Fraud or Unauthorized Use
+10. Disclaimer
+11. Indemnity
+12. Governing Law & Jurisdiction
+STATE BANK OF INDIA: UNIFIED PAYMENTS INTERFACE ON WHATSAPP – TERMS OF SERVICE
+These terms and conditions (“Terms”) apply to and regulate the provision of a Unified Payments Interface Service based electronic fund transfer and fund collection facility provided by State Bank of India to WhatsApp “USERS” through the application owned and maintained by WhatsApp (“Facility”) subject to Terms herein specified.
+The “USER” may apply for Facility by installing the WhatsApp mobile application on their device and completing a one-time activation/registration for the Facility. “USER” will have an option to set a Virtual Payment Address (“VPA”) by linking an Account maintained with any bank in India through a one-time registration process defined and standardized by NPCI/ State Bank of India and then start transacting. The process of registration is:
+WhatsApp customers need to select their bank followed by the account they want to link. Thereafter, they need to enter the last six digit of their debit card number and the card expiry details associated with the account being linked to create a VPA.
+By applying for and accessing the Facility, the “USER” accepts these terms, which shall govern the provision of the Facility by State Bank of India. The Terms shall be in addition to and not in derogation of the regulatory guidelines issued from time to time. In case of contradiction, the existing RBI/NPCI guidelines would prevail.
+Back to top
+1. Definitions
+The following words and expressions shall have the corresponding meanings wherever appropriate.
+1.1. “
+Bank
+” refers to the State Bank of India, a body corporate constituted as per the State Bank of India Act, 1955 and having its Corporate Office at "State Bank Bhavan", Madame Cama Road, Nariman Point, Mumbai – 400 021(which expression shall, unless it is repugnant to the subject or context thereof, includes its successors and assigns).
+1.2. “
+RBI
+” shall mean the Reserve Bank of India.
+1.3. “
+Facility
+” shall mean the services being made available by WhatsApp to its “USER”s using the UPI services provided by the Bank on the WhatsApp application.
+1.4. “
+NPCI
+” shall mean National Payments Corporation of India a company incorporated in India under Section 25 of the Companies Act, 1956 and acting as the settlement, clearing house and regulating agency for UPI.
+1.5. "
+UPI
+” shall mean Unified Payments Interface services provided by NPCI through the NPCI UPI libraries facilitating payment, for the purpose of push or pull transactions as per the regulations and guidelines issued by RBI, NPCI and the Bank from time to time.
+1.6. “
+Confidential Information
+” refers to the information obtained by the customer from/or through the UPI services provided by the Bank through WhatsApp application.
+1.7. “
+Mobile Phone Number
+” shall mean mobile number registered with the Bank for availing digital payments through various digital platforms like ATM, Mobile Banking, Internet Banking , or for any financial transaction facilities or receiving transaction alerts facilities.
+1.8. “
+Bank's website
+” means
+www.bank.sbi
+or
+www.sbi.co.in.
+1.9. “
+OTP
+” shall mean One Time Password.
+1.10. “
+Payment Service Provider
+” or PSP shall mean shall mean Banks that are mandated to acquire and provide the UPI services.
+1.11. “
+USER
+” means the WhatsApp “USERS” who access UPI services offered by SBI.
+1.12. “
+Merchant/s
+” shall mean mobile based online and offline entities that provide goods and services in exchange for payment through UPI.
+1.13. “
+WhatsApp
+” means WhatsApp Inc., a Delaware, United States company with offices at 1 Meta Way, Menlo Park, CA 94025. It provides smartphone “USERS” with certain services via their phone’s Internet connection, including sending and receiving messages, calls, photos, videos, documents, and voice messages and provides payments services in collaboration with PSP Banks.
+1.14. “
+WhatsApp Application
+” means WhatsApp’s existing and future applications and services including its business and consumer applications and services for mobile, desktop, and web.
+Back to top
+2. Applicability of Terms and Conditions
+These terms and conditions (or 'Terms') mentioned herein form the contract between the “USER” and the Bank for using the UPI Service provided by Bank on WhatsApp. By applying for UPI Services and accessing the service the “USER” acknowledges and accepts these Terms and Conditions. Any conditions relating to the accounts of customer other than these Terms will continue to apply except that in the event of any conflict between these Terms and the account conditions, these Terms will continue to prevail. The Terms mentioned herein shall include any subsequent modifications or changes to it duly made by the Bank and published in the site or Bank's website
+www.sbi.co.in.
+Back to top
+3. General Business Rules Governing SBI UPI
+3.1. As a Payment Service Provider, the Bank will acquire customers by providing the UPI Services on WhatsApp application to the WhatsApp “USER”s. The UPI service can be used by the Bank’s customers or other bank’s customers to transact through their bank account after a one-time registration process.
+3.2. The Bank reserves the right to decide what services may be offered. Additions/ deletions to the services offered under the facility are at its sole discretion.
+3.3. The “USER” agrees that he/she shall use only his/her Mobile Phone number to access the UPI services offered by Bank on WhatsApp application. The access is restricted to him/her on the specific Mobile Phone Number only as registered with the Bank(s) for accessing the UPI service offered by Bank on WhatsApp application. The “USER” agrees to use single mobile phone which is linked to his Bank account for accessing the services under UPI platform. Change of mobile phone shall be properly re-registered according to application requirement.
+3.4. The “USER” agrees that the responsibility for the accuracy of the particulars given for facilitating a UPI transaction shall lie with the “USER” and and the “USER” shall be liable to indemnify and compensate the Bank for any loss arising on account of any error in the particulars given at the time of registration or performing any transaction – Financial/Non-financial.
+3.5. The “USER” is responsible for the correctness of information supplied to Bank through the use of or through any other means such as electronic or written communication. Bank does not accept any liability for the consequences arising out of erroneous information supplied by the “USER”.
+3.6. “USER” agrees that any dispute resolution shall be as per the guidelines issued by Bank or NPCI from time to time.
+3.7. Any change in the business rules of any of the processes concerning SBI UPI services will be notified on Bank's website
+www.bank.sbi
+or
+www.sbi.co.in
+and this will be construed as sufficient notice to the customer and deemed acceptance by the customer.
+3.8. It shall be the Bank's endeavor to give a reasonable notice for withdrawal or termination of SBI’s UPI services, but the Bank may at its discretion withdraw temporarily or terminate the same, either wholly or partially, anytime without giving prior notice to the “USER”.
+3.9. The SBI UPI services may be suspended for any maintenance or repair work for any breakdown in the Hardware/ Software related to SBI UPI, any emergency or security reasons beyond the control of the Bank without prior notice and the bank shall not be responsible if such an action has to be taken for such reasons.
+3.10. The Bank may also terminate or suspend the services under SBI UPI without prior notice if the “USER” has violated the terms and conditions laid down by the Bank.
+3.11. “USER” hereby undertakes, represents and warrants to Bank that:
+The “USER” acknowledges that the role of State Bank of India is limited to acting as a Payment Service Provider, which would include receiving from WhatsApp, bank information/data of “USER” for the purpose of (i) creation of the VPA; and (ii) processing the transactions initiated by the “USER” using the payment Facility made available to “USER”s through WhatsApp as per applicable law.
+“USER” shall be in compliance at all times with applicable laws regarding the use of Facility and shall not use the Facility in violation of the applicable laws.
+Back to top
+4. Usage of Facility
+4.1. By accepting the terms and conditions during the one time registration for SBI UPI services provided by Bank on WhatsApp application while registering for the facility, the “USER”:
+4.2. Agrees to use the SBI UPI services provided by Bank on WhatsApp application for permissible financial and non-financial transactions offered by the Bank from time to time.
+4.3. Also irrevocably authorizes the Bank to debit/instruct to debit the “USER’s” account for all transactions/services undertaken by using UPIPIN, as per the Banks laid down guidelines for UPI.
+4.4. Agrees to use the services offered under the UPI Payment Facility provided by Bank through WhatsApp using the UPI PIN in accordance with the procedure as laid down by the Bank from time to time, including the terms and conditions contained herein.
+4.5. Agrees to keep the UPI PIN confidential and will not disclose these to any other person or will not record them in a way that would compromise the confidentiality of the same or the security of the service.
+4.6. Agrees that he/ she is aware and accepts that the UPI service offered by the Bank through WhatsApp will enable him/her to transact using UPI PIN within the limit prescribed by the Bank and all such transactions will be deemed as bona-fide transaction.
+4.7. Agrees that the transactions originated using the mobile phones are non-retractable as these are instantaneous/real time.
+4.8. Understands and explicitly agrees that Bank has the absolute and unfettered right to revise the prescribed ceilings and charges from time to time which will be binding upon him/her.
+4.9. Agrees to use the Facility on a mobile phone properly and validly registered in his/her name only with the Mobile Service Provider and undertakes to use the SBI UPI services provided by Bank on WhatsApp application only through Mobile Phone Number which has been used to register for the UPI service.
+4.10. Expressly authorizes the Bank to carry out all requests/ transactions purporting to have been received from his/ her mobile phone and authenticated with his/ her UPI PIN. In the case of payment facilities like cash out, fund transfer etc. which may be provided at a future date, the “USER” shall be deemed to have expressly authorized the Bank to make the payment when a request is received from him/ her.
+4.11. Accepts that any transaction originating from the registered mobile phone number shall be assumed to have been initiated by the “USER” and any transaction authorized by theUPIPIN is duly and legally authorized by the “USER”.
+4.12. Agrees that while the Information Technology Act, 2000 prescribes that a subscriber may authenticate an electronic record by affixing his digital signature which has been given legal recognition under the Act, the method of authentication used by the Bank by using mobile number , UPI PIN or any other method decided at the discretion of the Bank “USER” may not be recognized under the IT Act, 2000 for authentication of electronic records. The “USER” confirms the acceptance of the same herein.
+4.13. Agrees to keep himself/herself updated with regard to any information/ modification relating to the services offered which would be publicized on the Bank's websites and would be responsible for taking note of/ compliance of such information/ modifications in making use of the facility.
+Back to top
+5. Others
+5.1. The “USER” shall be required to acquaint himself/herself with the process for using UPI services provided by Bank on WhatsApp and that he/she shall be responsible for any error made while using the service.
+5.2. While it shall be the endeavor of the Bank to carry out the instructions received from the “USER”s promptly, it shall not be responsible for the delay/ failure in carrying out the instructions due to any reasons whatsoever including failure of operational system or due to any requirement of law. The “USER” expressly authorizes the Bank to access his/her SBI UPI related information on WhatsApp required for offering the services and also to share the information regarding his/ her with the service provider/ third party as may be required to provide the services.
+5.3. The transactional details will be recorded by the Bank and these records will be regarded as conclusive proof of the authenticity and accuracy of transactions.
+5.4. The “USER” hereby authorizes the Bank or its agents to send promotional messages including the products of the Bank, greetings or any other messages the Bank.
+5.5. The “USER” understands that the Bank may send "rejection" or "cannot process the request" messages for the service request(s) sent by the “USER” which could not be executed for any reason.
+5.6. The Bank shall make all reasonable efforts to ensure that the U”USER” information provided for availing the services is kept confidential. The Bank shall not be responsible for any inadvertent divulgence or leakage of confidential “USER” information for reasons beyond its control or use of such information by any third party, including WhatsApp in this case The Bank may reveal “USER” information if required under law or regulation.
+5.7. The Telecom Service provider of the “USER” may levy charges for each SMS/ dial/GPRS/USSD and the Bank is not liable for any dispute that may arise between such telecom service provider and the “USER”.
+Back to top
+6. Accuracy of Information
+6.1. It is the responsibility of the “USER” to provide correct information to the Bank through the use of the facility or any other method. In case of any discrepancy in this information, the “USER” understands that the Bank will not be in any way responsible for action taken based on the information. The Bank will endeavor to correct the error promptly wherever possible on a best effort basis, if the “USER” reports such error in information.
+6.2. The “USER” understands that the Bank will try, to the best of its ability and effort, to provide accurate information and shall not hold the Bank responsible for any errors or omissions that may occur due to reasons beyond the control of the Bank.
+6.3. The “USER” accepts that the Bank shall not be responsible for any errors which may occur in spite of the steps taken by the Bank to ensure the accuracy of the information and shall not have any claim against the Bank in an event of any loss/ damage suffered as a consequence of an information provided by the Bank found to be not correct.
+Back to top
+7. Responsibilities and obligations of the “USER”
+7.1. The “USER” will be responsible for all transactions, including unauthorized/ erroneous/ wrong/ incorrect/mistaken/false transactions made through the use of his/her mobile phone, SIM card and UPIPIN, regardless of whether such transactions are in fact entered into or authorized by him/ her. The “USER” will be responsible for the loss/damage, if any suffered in respect of all such transactions.
+7.2. The “USER” shall take all possible steps to ensure that the UPIPIN and the mobile phone are not shared with anyone and shall take immediate action to block the SIM as per procedure laid down in case of misuse/ theft/loss of the mobile phone or SIM card.
+7.3. It will be the responsibility of the “USER” to notify the Bank immediately if he/she suspect the misuse of the UPIPIN. He will also immediately initiate the necessary steps to change / regenerate his UPIPIN.
+7.4. The “USER” shall be liable for all loss or breach of the Terms and Conditions contained herein or contributed or caused the loss by negligent actions or a failure to advise the Bank within a reasonable time about any unauthorized access to the UPI services offered by Bank on WhatsApp application.
+7.5. The “USER” shall be liable and responsible for all legal compliance and adherence of all commercial terms and conditions in respect of the mobile connection/SIM card/mobile phone through which the product is availed and the Bank does not accept/ acknowledge any responsibility in this regard.
+Back to top
+8. Sharing of Information
+8.1. The “USER” irrevocably and unconditionally authorises Bank to access all the “USER”’s Account(s) and records for the purpose of providing the services. The “USER” agrees that Bank and its affiliates (or their contractors/vendors) may hold and process its personal information and all other information concerning its Account(s) on computer or otherwise in connection with the Facility as well as for analysis, credit scoring and marketing.
+8.2. “USER” hereby expressly consents to and permits Bank, its affiliates and the all the parties involved in the payment system including but not limited to Payments System Providers, acquiring banks, partner banks, the issuer bank of the sender’s funding account, the beneficiary bank of the beneficiary’s bank account, NPCI and RBI to collect, store and share such information including but not limited to the their personal information such as name, address, all transactions details carried out through WhatsApp Platform or information with respect to third parties and the beneficiary including bank account number.
+8.3. In the event the “USER” is a beneficiary, “USER” hereby consents SBI to permit the remitter to store their information including but not limited to bank account number for the purpose of sending the payments and/ or legal, regulatory and internal policy compliance.
+8.4. “USER” understands and agrees that certain information, including but not limited to, USER’s name, USER’s mobile number, residential address, email ID, gender, location details (entered by USER), device details such as App ID, IMEI number, transaction related details – UPI ID, RRN, transaction ID, time stamp, beneficiary UPI ID, beneficiary account number , beneficiary CBS name resolved by beneficiary’s PSP etc. collected by Bank, including information obtained from Payments System Providers, acquiring banks, partner banks, the issuer bank of the sender’s account, the beneficiary bank of the beneficiary’s bank account, NPCI and RBI or third parties, is shared between Bank and WhatsApp to the extent necessary for providing the Facility. In addition, “USER” understands and agrees that Bank is required to share their personal information, such as name, and email address, payment instrument details with third parties for the purposes of processing USER’s transactions or for the use of their services to register their complaints. Bank will abide by NPCI guidelines and adheres to the customer dispute management process specified by NPCI / RBI.
+8.5. “USER” agrees and understands that the transaction will be recorded in the statement of account as given to the “USER” by the “USER’s” bank. The “USER” agrees that he shall not be entitled to dispute the correctness of the execution of the Payment Order or the amount debited to his Account(s) if he fails to report the discrepancy as per NPCI / RBI guidelines.
+Back to top
+9. Fraud or Unauthorized Use
+Bank shall not be responsible for and “USER” shall solely be responsible for any unauthorized access or use of their personal or financial information through WhatsApp platform.
+Back to top
+10. Disclaimer
+10.1. The Bank, when acting in good faith, shall be absolved of any liability in case:
+10.2. The Bank is unable to receive or execute any of the requests from the “USER” or there is loss of information during processing or transmission or any unauthorized access by any other person or breach of confidentiality or due to reasons beyond the control of the Bank.
+10.3. There is any kind of loss, direct or indirect, incurred by the “USER” or any other person due to any failure or lapse in the facility which are beyond the control of the Bank.
+10.4. There is any failure or delay in transmitting of information or there is any error or inaccuracy of information or any other consequence arising from any cause beyond the control of the Bank which may include technology failure, mechanical breakdown, power disruption, etc.
+10.5. There is any lapse or failure on the part of the service providers or any third party affecting the said facility and that the Bank makes no warranty as to the quality of the service provided by any such provider.
+10.6. The Bank, its employees, agent or contractors, shall not be liable for and in respect of any loss or damage whether direct, indirect or consequential, including but not limited to loss of revenue, profit, business, contracts, anticipated savings or goodwill, loss of use or value of any equipment including software, whether foreseeable or not, suffered by the “USER” or any person howsoever arising from or relating to any delay, interruption, suspension, resolution or error of the Bank in receiving and processing the request and in formulating and returning responses or any failure, delay, interruption, suspension, restriction, or error in transmission of any information or message to and from the telecommunication equipment of the “USER” and the network of any service provider and the Bank's system or any breakdown, interruption, suspension or failure of the telecommunication equipment of the “USER”, the Bank's system or the network of any service provider and/or any third party who provides such services as is necessary to provide the facility.
+10.7. The Bank will not be responsible if the UPI services offered by Bank on WhatsApp are not compatible with/ does not work on the mobile handset of the “USER”.
+10.8. The Bank will not be liable for any loss caused by a technical breakdown of the payment system.
+10.9. Use of UPI services offered by Bank on WhatsApp application may be terminated without notice at the Bank's discretion which may be upon the death, bankruptcy or insolvency of the “USER” or on receipt of request from the “USER”, receipt of an attachment order from a competent court or revenue authority or from RBI due to violation of RBI regulations, or for other valid reasons or when the whereabouts of the “USER” become unknown to the Bank due to any cause attributable to the “USER” or any other reason which the Bank deems fit.
+10.10. The Bank is not responsible for the refusal by any Merchant Establishment (ME) to accept or honour the UPI service, nor shall it be responsible in any respect for the services offered to the “USER”. The “USER” shall handle or resolve all claims or disputes directly with such Establishments and no claim by the “USER” against the Merchant Establishment is subject to set-off or counterclaim against the Bank. The “USER”SBI UPI service will process credits only on receipt of money from the Merchant Establishment or the acquirer.
+The dispute resolution will be as per the UPI Dispute settlement guidelines of NPCI
+.
+10.11. The Bank will not be responsible for furnishing original bills of the Merchant Establishment to the “USER”.
+10.12. “USER”s shall not hold the Bank responsible and/or liable in any manner whatsoever for any losses/damages/costs incurred by the “USER” for creation of the VPA and/or initiating/processing/cancelling any transaction on the WhatsApp platform.
+Back to top
+11. Indemnity
+11.1. In consideration of the Bank providing the facility, the “USER” agrees to indemnify and hold the Bank harmless against all actions, claims, demands proceedings, loss, damages, costs, charges and expenses which the Bank may at any time incur, sustain, suffer or be put to as a consequence of or arising out of or in connection with any services provided to the “USER” pursuant hereto. The “USER” shall indemnify and keep indemnified the Bank for unauthorized access by any third party to any information/instructions/triggers given by the “USER” or breach of confidentiality.
+Back to top
+12. Governing Law & Jurisdiction
+12.1. The services and the terms and conditions of the same are governed by the applicable laws in India.
+12.2. Any dispute or claim pertaining to the services and /or the terms and conditions herein are subject to the exclusive jurisdictions of competent courts/tribunals/forums in Mumbai and the “USER” agrees to such exclusive jurisdictions in Mumbai.
+Back to top

@@ -1,0 +1,91 @@
+https://www.whatsapp.com/legal/payments/india/privacy-policy
+2026-11-20
+Payments Privacy Policy - India - December 28, 2020
+Last modified: August 17, 2026 (
+archived versions
+)
+WhatsApp India Payments Privacy Policy
+Table of Contents
+Information We Collect
+Information You Provide
+Automatically Collected Information
+How We Use Information
+Information You And We Share
+Managing and Deleting Your Information
+Updates to Our Policy
+This WhatsApp India Payments Privacy Policy ("
+India Payments Privacy Policy
+") helps explain our information practices when you use WhatsApp Pay. The terms "our," "we," "us," and "WhatsApp India," refer to WhatsApp Application Services Private Limited. WhatsApp India enables you to send and receive payments ("Payments"), a service we provide through, and in coordination with, designated payment service provider ("PSP") banks. WhatsApp India also provides an interface in which users have the ability to view bills and make payments to billers ("Bill Payments”) through Bharat Bill Payment System ("BBPS"), an integrated bill payment platform operated by NPCI Bharat BillPay Limited (“NBBL” – a wholly owned subsidiary of NPCI). Payments and Bill Payments services are collectively referred to in this policy as “WhatsApp Pay”.
+We use all the information we have to operate, provide, improve, understand, customize, support, and market our services. PSP banks may also collect, use, and share information, as set forth in their privacy policies, in conjunction with helping to provide Payments to you.
+By using WhatsApp Pay, you accept that the following terms and policies apply:
+the WhatsApp
+Terms of Service
+;
+the WhatsApp
+Privacy Policy
+;
+the WhatsApp India Payments
+Terms of Service
+; and
+this India Payments Privacy Policy.
+If there is any conflict between the India Payments Privacy Policy and the WhatsApp Privacy Policy, the India Payments Privacy Policy will control solely with respect to your use of WhatsApp Pay, and only to the extent of the conflict.
+Back to top
+Information We Collect
+To provide WhatsApp Pay, we may receive information described in the WhatsApp
+Privacy Policy
+, and the information specified below.
+Back to top
+Information You Provide
+Registration and BHIM UPI PIN Setup Information
+. When you register to use Payments, you provide your bank's name and confirm the bank account for use with Payments. If you do not have a BHIM UPI PIN already for your bank account, you can set one using your partial debit card number, expiry date, PIN (if required by your bank), and bank-issued one-time password (OTP) to set up a BHIM UPI PIN. We do not retain Customer Payment Sensitive Data (partial debit card number, expiry date, PIN, OTP, or BHIM UPI PIN). WhatsApp India does not have access to the BHIM UPI PIN because it is encrypted by Common Library (CL) software provided by National Payments Corporation of India.
+Payment Transaction Information
+. When you send, receive, or request payments, you provide or confirm information about your transaction, including the receiver’s name, phone number, BHIM UPI ID (virtual payment address), payment amount, and currency. To authorize every payment you make, you need to use your BHIM UPI PIN. This payment transaction information is handled securely. WhatsApp messages sent with Payments are delivered once the transaction has processed and are treated as described in the WhatsApp Privacy Policy.
+Bill Payments Information.
+When you decide to use Bill Payments, you may be required to provide your name, phone number, email address, date of birth, or government ID number, depending on the specific bill payment category. This information is required to fetch your bill and process the payment.
+Back to top
+Automatically Collected Information
+Information About Your Use Of WhatsApp Pay
+. We collect information when you send, receive, or request a payment or when you register a biller, request a bill fetch, or make a bill payment. For example, we collect the date, time of the transaction, bill category, biller information, reference transaction number, and country. When the sender makes a payment to a WhatsApp contact, we collect account and transaction information, including the sender's and receiver's names and BHIM UPI IDs.
+Information We Receive From Service Providers, PSP Banks, NPCI, and COU.
+Service Providers
+. We work with and receive information from service providers, including WhatsApp Inc. and other
+Facebook Companies
+, to help us operate, provide, improve, understand, customize, support, and market WhatsApp Pay; provide customer support; and keep our system safe and secure. For example, we work with companies to assist with customer support, and we receive information from them that you provide over the phone or email.
+PSP Banks and NPCI
+. We enable Payments by working with multiple PSP banks and the National Payments Corporation of India ("
+NPCI
+") to facilitate the movement of funds between the sender's and receiver's bank accounts. They provide us information about you, your financial institution and accounts, and your Payments transactions. For example, we may receive information about you or your transactions from a PSP bank, including information to confirm your registration, the payment sender's or receiver's name, account information and status, balance sufficiency, transaction and account identifiers, risk or fraud alerts, and the like. BHIM UPI transaction information is stored in encrypted format. Please note that the PSP bank's or NPCI's terms and privacy policies will govern your use of their services.
+COU
+. We enable Bill Payments by working with the Customer Operating Unit (“COU”), banks and non bank payment aggregator or any other entity authorised as an “Operating Unit” who can participate in the BBPS as COUs. COU is a category of Operating Unit, and COUs are the entities responsible for providing customers with an interface to pay the bills either directly or through agent institution(s) via the BBPS platform. The COU provides us information based on the bill category you decide to pay. For example, if you decide to pay a utility bill, we will receive bill reference ID, the amount to be paid, and bill due date.
+Back to top
+How We Use Information
+We use all the information we have to operate, provide, improve, understand, customize, support, and market our services. This includes using the information to provide WhatsApp Pay and customer support; to protect you and others using WhatsApp Pay from fraud, abuse, or other misconduct; and to review your account activity to determine whether you continue to meet the WhatsApp Terms of Service and WhatsApp India Payments Terms of Service. WhatsApp India works with the other
+Facebook Companies
+, including Facebook Inc. ("Facebook") and WhatsApp Inc., to provide WhatsApp Pay, including to send payment instructions to PSP banks for Payments. We also use the information to customize, market and improve Payments, including cross-selling, promotions, providing value-added services and other NPCI approved purposes, and in accordance with applicable law.
+For Bill Payments, we may also use your information to send you bill reminders, to personalise your Bill Payments experience (such as displaying relevant recharge plans or suggesting billers you may want to pay), and to improve Bill Payments, including through cross-selling, promotions, and value-added services. We will do so in accordance with applicable law, BBPS guidelines and NBBL approved purposes, and you can manage your reminder and personalisation preferences through your Bill Payments settings.
+Back to top
+Information You And We Share
+In addition to what is described in the WhatsApp
+Privacy Policy
+, you share your information when you use WhatsApp Pay, and we share your information in the following ways:
+Payment Senders And Recipients
+. You and people with whom you send or receive Payments may store or reshare your BHIM UPI ID, name, or transaction information with others on or off Payments.
+Service Providers
+. In conformance with our relationship with PSP banks, WhatsApp India works with service providers, including WhatsApp Inc. and other
+Facebook Companies
+, to provide WhatsApp Pay to you. We may share information collected under this India Payments Privacy Policy with service providers to send payment instructions to PSP banks; maintain your transaction history; provide customer support; improve, understand, customize, support, and market Payments; and keep Payments safe and secure, including to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct. Facebook will have no access to encrypted BHIM UPI transaction information in clear format. When we share information with service providers, we require them to use your information on our behalf in accordance with our instructions, terms, and applicable law.
+PSP Banks and NPCI
+. We share information with PSP banks and NPCI to help us operate Payments. The PSP banks and NPCI receive account information, including information to authenticate your account; transaction information, including payment amount and BHIM UPI IDs; country; transaction and account identifiers; information to detect, prevent, or otherwise address fraud, safety, security, abuse, or other misconduct; and customer support information. Please note that when you use PSP banks and NPCI services, their own terms and privacy policies will govern your use of those services.
+Bill Payments information
+. We share information with the COU and payment aggregator to enable the Bill Payments feature on WhatsApp, as this information is required to fetch your bill and process the payment.The COU and payment aggregator can receive your name, phone number, email address, date of birth, or government ID number, depending on the specific bill payment category as well as your IP address, device identifier, or other persistent identifier.
+Compliance with Law
+. Notwithstanding anything to the contrary, WhatsApp India may collect, preserve, use your UPI transaction information and Bill Payment information and also share with affiliates and respective authorities with due approvals only if so required to comply with applicable laws or regulation (including sanctions compliance).
+Back to top
+Managing and Deleting Your Information
+If you would like to manage, change, limit, or delete your WhatsApp Pay information, we allow you to do that through your Payments settings or by deleting your WhatsApp account.
+With your Payments settings, you may register additional bank account(s), deregister existing bank account(s) from your BHIM UPI ID, change the PSP bank, and clear your transaction history. When you delete your WhatsApp account, your bank account will be deregistered from your BHIM UPI ID automatically.
+For Bill Payments, you can remove a registered biller from your Bill Payments settings to stop future bill fetches and reminders for that biller.
+Back to top
+Updates to Our Policy
+We will notify you as appropriate before we make changes to this India Payments Privacy Policy and give you the opportunity to review the revised India Payments Privacy Policy before you choose to continue using WhatsApp Pay.
+Back to top
