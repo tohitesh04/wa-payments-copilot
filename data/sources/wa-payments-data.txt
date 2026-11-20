@@ -1,0 +1,15 @@
+https://faq.whatsapp.com/1219516395273390
+2026-11-21
+Last updated - January 28, 2021
+Does the recent change in WhatsApp Global privacy policy affect the WhatsApp UPI enabled payments in India?
+WhatsApp UPI enabled payments are subject to a separate WhatsApp India Payments Privacy Policy, which hasn't changed. You can review it here. If there is any conflict between the WhatsApp India Payments Privacy Policy and the WhatsApp Privacy Policy, the WhatsApp India Payments Privacy Policy will control solely with respect to your use of UPI Payments.
+WhatsApp is committed and works diligently to ensure that UPI enabled payments are completely secure and that WhatsApp payments remain in full compliance with the data localization guidelines issued by Reserve Bank of India.
+The UPI transaction data is encrypted. For further details, please refer to WhatsApp India Payments Privacy Policy.
+Note: When you make a payment through UPI ID, UPI number, or scanning a QR code, any payment descriptions you add aren't end-to-end encrypted. Payment descriptions may be seen by you, your recipient, the banks and partners processing your transaction, and NPCI. To learn about the privacy of your payment descriptions, read this article.
+How do we protect the security of our payments users?
+The security and privacy of our users are important to us. We follow best practices to protect our payments users and ensure proper use of the WhatsApp payments service.
+WhatsApp payments transaction data is encrypted and resides only in India per RBI guidelines.
+WhatsApp India actively monitors necessary compliances and may share UPI transaction data for identified exceptions with affiliates and regulators subject to regulatory approvals to stop illegal use of WhatsApp payments in compliance with applicable laws and regulation. For further details, please refer to WhatsApp India Payments Privacy Policy
+WhatsApp does not capture or store UPI PIN in compliance with UPI guidelines issued by NPCI.
+WhatsApp does not store other customer payment sensitive information such as your one-time password (OTP), full account number, or any debit card details.
+WhatsApp does not have access to any information about transactions completed on UPI apps.

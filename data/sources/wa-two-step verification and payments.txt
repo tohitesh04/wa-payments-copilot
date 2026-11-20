@@ -1,0 +1,16 @@
+https://faq.whatsapp.com/580707210518585
+2026-11-21
+About two-step verification and payments
+Note: WhatsApp is upgrading the 6-digit PIN used in two-step verification to a password. If you already have a PIN protecting your account, you can update to a password by following the steps here.
+Two-step verification is a feature that adds more security to your WhatsApp account. If you use payments on WhatsApp, enabling two-step verification will enhance the security of your payment information. It also allows you to restore your protected payment account information if you need to reinstall WhatsApp, or if you install WhatsApp on a new device.
+How to restore your payments account information
+Two-step verification allows you to safely restore your payment account information if you need to reinstall WhatsApp, or if you install WhatsApp on a new device.
+Once you have installed WhatsApp and re-registered using two-step verification, follow the below steps to restore your ability to send money, and to perform additional functions like changing your bank:
+Tap Settings or your profile picture, then tap Payments.
+On the screen, you’ll see a notification telling you that you must verify your number to use your existing payments information. To proceed, tap Verify.
+Tap Continue > Verify on Android, or Next > Verify on iPhone.
+Once your number has been verified, tap Done.
+Notes:
+Your two-step verification PIN is different from your UPI PIN. Your UPI PIN is a 4 or 6 digit number you must enter before making each payment. You shouldn’t share your two-step verification PIN or UPI PIN with anyone else.
+Enabling two-step verification is optional, but you must have two-step verification enabled to restore your payments account information.
+The ability to restore your payments account information is currently only available to users with a UPI ID linked to certain payment partners. We’re currently working to expand this to additional payments partners.

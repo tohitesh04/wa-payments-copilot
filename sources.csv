@@ -12,3 +12,18 @@ npci-upi-faq,,FILL IN: NPCI UPI FAQ page,NPCI,,official,data/sources/npci-upi-fa
 npci-dispute,,FILL IN: NPCI UPI dispute / complaint page,NPCI,,official,data/sources/npci-dispute.txt
 blog-1,,FILL IN: blog whose reversal timeline differs from RBI,,,third_party,data/sources/blog-1.txt
 blog-2,,FILL IN: second blog with a different timeline,,,third_party,data/sources/blog-2.txt
+wa-avoid-fruad-when-using-payments,https://faq.whatsapp.com/513792060306764/,WhatsApp Avoid Fraud When Using payments,WhatsApp Help Center,2026-11-21,official,data/sources/wa-avoid-fruad-when-using-payments.txt
+wa-avoid-scams-when-using-payments,https://faq.whatsapp.com/1558519631227980/,WhatsApp Avoid Scams When Using payments,WhatsApp Help Center,2026-11-21,official,data/sources/wa-avoid-scams-when-using-payments.txt
+wa-dispute-redressal-mechanism,https://faq.whatsapp.com/850051819456694/,WhatsApp Dispute Redressal Mechanism,WhatsApp Help Center,2026-11-21,official,data/sources/wa-dispute-redressal-mechanism.txt
+wa-payments-data,https://faq.whatsapp.com/1219516395273390,WhatsApp Payments Data,WhatsApp Help Center,2026-11-21,official,data/sources/wa-payments-data.txt
+wa-protect-suspicious-message-scam,https://faq.whatsapp.com/573786218075805/,WhatsApp Protect from Suspicious Messages and Scams,WhatsApp Help Center,2026-11-21,official,data/sources/wa-protect-suspicious-message-scam.txt
+wa-report-a-merchant-fraud-android,https://faq.whatsapp.com/1209785226407302/?cms_platform=android,WhatsApp Report a Merchant Fraud on Android,WhatsApp Help Center,2026-11-21,official,data/sources/wa-report-a-merchant-fraud-android.txt
+wa-report-a-merchant-fraud-ios,https://faq.whatsapp.com/1209785226407302/?cms_platform=iphone,WhatsApp Report a Merchant Fraud on iOS,WhatsApp Help Center,2026-11-21,official,data/sources/wa-report-a-merchant-fraud-ios.txt
+wa-send-money-using-upi-id-android,https://faq.whatsapp.com/843096396698460,WhatsApp Send Money using UPI ID on Andriod,WhatsApp Help Center,2026-11-21,official,data/sources/wa-send-money-using-upi-id-android.txt
+wa-send-money-using-upi-id-ios,https://faq.whatsapp.com/843096396698460/?cms_platform=iphone,WhatsApp Send Money using UPI ID on Andriod,WhatsApp Help Center,2026-11-21,official,data/sources/wa-send-money-using-upi-id-ios.txt
+wa-setup-payment-method-android,https://faq.whatsapp.com/167763192262914/?cms_platform=android,WhatsApp Setup Payment Method for Ads on Android,WhatsApp Help Center,2026-11-20,official,data/sources/wa-setup-payment-method-android.txt
+wa-setup-payment-method-ios,https://faq.whatsapp.com/167763192262914/?cms_platform=iphone,WhatsApp Setup Payment Method for Ads on iOS,WhatsApp Help Center,2026-11-21,official,data/sources/wa-setup-payment-method-ios.txt
+wa-suspicious-message-scam,https://faq.whatsapp.com/2286952358121083,WhatsApp Suspicious Messages and Scams,WhatsApp Help Center,2026-11-21,official,data/sources/wa-suspicious-message-scam.txt
+wa-two-step verification and payments,https://faq.whatsapp.com/580707210518585,WhatsApp Two-step Verification and Payments,WhatsApp Help Center,2026-11-21,official,data/sources/wa-two-step verification and payments.txt
+wa-view-txn-ref-id-android,https://faq.whatsapp.com/957472895443460/?cms_platform=android,WhatsApp View Transaction ID on Android,WhatsApp Help Center,2026-11-21,official,data/sources/wa-view-txn-ref-id-android.txt
+wa-view-txn-ref-id-ios,https://faq.whatsapp.com/957472895443460/?cms_platform=iphone,WhatsApp View Transaction ID on iOS,WhatsApp Help Center,2026-11-21,official,data/sources/wa-view-txn-ref-id-ios.txt

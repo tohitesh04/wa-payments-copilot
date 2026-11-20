@@ -1,0 +1,11 @@
+https://faq.whatsapp.com/843096396698460
+2026-11-21
+Tap More Options (three vertical dots) > Payments > Send Payment.
+Select Enter a UPI ID or UPI number then enter the UPI ID or UPI number.
+Tap Verify.
+Enter the amount you want to send > tap Next.
+Tap Send Payment.
+Enter your UPI PIN.
+Note:
+While your personal messages on WhatsApp are always end-to-end encrypted, the payment descriptions you add to your transactions aren’t.
+To use payments, make sure you're using the latest version of WhatsApp. If you're having trouble downloading it through the Google Play Store, visit whatsapp.com/download.

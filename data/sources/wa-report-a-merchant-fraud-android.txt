@@ -1,0 +1,8 @@
+https://faq.whatsapp.com/1209785226407302/?cms_platform=android
+2026-11-21
+We want you to feel safe and secure when connecting with businesses. If you feel that a business you’re connecting with isn’t following our policies, you can report the account to WhatsApp.
+To report a business
+Tap the chat with the business, then tap the business name to see the business profile.
+Scroll to the bottom and tap Report business > Report.
+Check the box next to Block {business name} if you’d like to also block the business. Select your reason under Why are you blocking this business?, then tap Block.
+Note: WhatsApp receives up to five of the last messages they’ve sent to you by the reported user or group and, if a call took place, the basic info about the last five calls with them, such as who initiated the call and the duration of the call. The user or group won’t be notified. WhatsApp receives the reported group or user ID, information on when the message was sent, and the type of message sent (image, video, text, etc.). WhatsApp may also receive how the first contact was initiated between you and the reported group or user.

@@ -1,0 +1,4 @@
+https://faq.whatsapp.com/957472895443460/?cms_platform=android
+2026-11-21
+Each of your transactions has a reference ID. You can find this ID under your Payment details. For transactions using UPI apps, there may not be a reference ID available.
+To view your transaction IDs, tap More options > Payments > Transaction history, then tap on the transaction you wish to check.

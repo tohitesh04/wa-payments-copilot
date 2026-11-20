@@ -1,0 +1,22 @@
+https://faq.whatsapp.com/167763192262914/?cms_platform=iphone
+2026-11-21
+Add your first payment method for ads
+You add your first payment method when you create your first ad. Until then, you won't see payment options in your ad account settings.
+Tap Tools > Advertise > Get started, then create your ad.
+When prompted, tap Add payment method.
+Enter your email address > tap Send code, then enter the six-digit code.
+Select your country or region, currency, and time zone > tap Next.
+Enter your business information > tap Next.
+Add your payment information > tap Continue > Create ad.
+You don't need a credit or debit card to pay for ads. After your first ad, you can add more payment methods from your ad account settings.
+Supported payment methods
+The payments feature on the WhatsApp Business app is enabled by Meta Pay. Payments are processed by supported payment partners.
+You can pay for Click to WhatsApp ads with one of the following accepted payment methods:
+Credit or debit cards (American Express, Discover, Mastercard, Visa, JCB)
+PayPal
+Bank account (direct debit) in supported countries
+Local manual payment methods in supported countries and currencies
+The payment methods available to you vary, depending on the country and currency of your ad account. Learn more about supported payments partners.
+Change your payment method
+To change your payment method, tap Change and select from the available payment options.
+For catalogs in the WhatsApp Business app, the payment currency is auto-selected based on the country code of your registered phone number and can't be updated.
