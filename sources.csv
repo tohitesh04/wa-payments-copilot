@@ -5,13 +5,6 @@ wa-payments-home,https://www.whatsapp.com/payments/in,WhatsApp Payments in India
 bank-sbi,https://www.whatsapp.com/legal/payments/india/psp/sbi,SBI terms for UPI on WhatsApp,WhatsApp / SBI,2026-11-20,official,data/sources/bank-sbi.txt
 bank-icici,https://www.whatsapp.com/legal/payments/india/psp/icici?lang=en,ICICI terms for UPI on WhatsApp,WhatsApp / ICICI,2026-11-20,official,data/sources/bank-icici.txt
 rbi-tat-2019,https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=11693,Harmonisation of TAT and customer compensation for failed transactions (20 Sep 2019),RBI,2026-11-20,official,data/sources/rbi-tat-2019.txt
-wa-help-1,,FILL IN: WhatsApp Help Center payments article,WhatsApp Help Center,,official,data/sources/wa-help-1.txt
-wa-help-2,,FILL IN: WhatsApp Help Center payments article,WhatsApp Help Center,,official,data/sources/wa-help-2.txt
-wa-help-3,,FILL IN: WhatsApp Help Center payments article,WhatsApp Help Center,,official,data/sources/wa-help-3.txt
-npci-upi-faq,,FILL IN: NPCI UPI FAQ page,NPCI,,official,data/sources/npci-upi-faq.txt
-npci-dispute,,FILL IN: NPCI UPI dispute / complaint page,NPCI,,official,data/sources/npci-dispute.txt
-blog-1,,FILL IN: blog whose reversal timeline differs from RBI,,,third_party,data/sources/blog-1.txt
-blog-2,,FILL IN: second blog with a different timeline,,,third_party,data/sources/blog-2.txt
 wa-avoid-fruad-when-using-payments,https://faq.whatsapp.com/513792060306764/,WhatsApp Avoid Fraud When Using payments,WhatsApp Help Center,2026-11-21,official,data/sources/wa-avoid-fruad-when-using-payments.txt
 wa-avoid-scams-when-using-payments,https://faq.whatsapp.com/1558519631227980/,WhatsApp Avoid Scams When Using payments,WhatsApp Help Center,2026-11-21,official,data/sources/wa-avoid-scams-when-using-payments.txt
 wa-dispute-redressal-mechanism,https://faq.whatsapp.com/850051819456694/,WhatsApp Dispute Redressal Mechanism,WhatsApp Help Center,2026-11-21,official,data/sources/wa-dispute-redressal-mechanism.txt
