@@ -2,3 +2,6 @@
 .venv/
 __pycache__/
 chroma_db/
+chroma_db/
+data/sources/
+.DS_Store
