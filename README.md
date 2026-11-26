@@ -53,7 +53,7 @@ v2 (in progress):
 You need Python 3.11 or later and an [Anthropic API key](https://platform.claude.com). Each question costs a fraction of a cent.
 
 ~~~bash
-git clone https://github.com/USERNAME/wa-payments-copilot
+git clone https://github.com/tohitesh04/wa-payments-copilot
 cd wa-payments-copilot
 python3 -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
